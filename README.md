@@ -1,5 +1,5 @@
-# dbms-mini-project
-DBMS project on topic Online Examination System
+dbms-mini-project
+# DBMS project on topic Online Examination System
 
 <b>Technology Used:</b>
 
@@ -45,12 +45,17 @@ Functional Specification:
 
 <b>Snapshots</b>
 
-<img src="" width=100%>
+| <img src="Screenshots/1.png" width=100%> | <img src="Screenshots/2.png" width=100%> | <img src="Screenshots/3.png" width=100%> |
+| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
+| <img src="Screenshots/4.png" width=100%> | <img src="Screenshots/5.png" width=100%> | <img src="Screenshots/6.png" width=100%> |
+| <img src="Screenshots/7.png" width=100%> | <img src="Screenshots/8.png" width=100%> | <img src="Screenshots/9.png" width=100%> |
+| <img src="Screenshots/10.png" width=100%> | <img src="Screenshots/11.png" width=100%> | <img src="Screenshots/12.png" width=100%> |
+| <img src="Screenshots/13.png" width=100%> | <img src="Screenshots/14.png" width=100%> | <img src="Screenshots/15.png" width=100%> |
 
 
 <b>How to run this project locally</b>
-1. clone this repo to www folder in WAMP software
+1. Clone this repo to www folder in WAMP software
 2. Open phpmydmin & Create new database with name projet
-3. import the SQL file present in SQL Files Folder using import option in phpmyadmin.
-4. changes credentials in sql.php file with your database credentials.
-5. open localhost in browser. you see the home page
+3. Import the SQL file present in SQL Files Folder using import option in phpmyadmin.
+4. Changes credentials in sql.php file with your database credentials.
+5. Open localhost in browser. you see the home page
