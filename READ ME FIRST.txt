@@ -1,0 +1,7 @@
+How to run this project
+
+1. Install XAMPP software
+2. Copy "DBMS-MINI-Project-master" folder to /XAMPP/htdocs/ folder of XAMPP software Installation location
+3. Open phpmydmin & Create new database with name "project"
+4. Import the SQL file present in SQL Files Folder using import option in phpmyadmin.
+5. Open localhost in browser with Project folder location. You see the home page
